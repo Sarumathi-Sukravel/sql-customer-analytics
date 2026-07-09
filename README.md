@@ -51,11 +51,6 @@ Or open `customer_analytics.db` in any SQL client (DB Browser for SQLite, DBeave
 
 > **Groceries** and **Electronics** are the top two revenue-generating categories, while **Pune** leads in average revenue per customer — useful for regional marketing prioritization.
 
-## 🔮 Possible Extensions
-
-- Migrate to PostgreSQL and add indexing for performance testing
-- Build RFM (Recency, Frequency, Monetary) customer segmentation
-- Connect to Power BI / Tableau for a live dashboard
 
 ---
 *Part of my Data Analytics portfolio — [Sarumathi Sukravel](https://github.com/Sarumathi-Sukravel)*
