@@ -1,8 +1,4 @@
-"""
-Runs each query in queries/analysis_queries.sql against customer_analytics.db
-and prints the results — a quick way to verify the SQL without a GUI tool.
-Run: python run_queries.py
-"""
+
 import sqlite3
 import pandas as pd
 
